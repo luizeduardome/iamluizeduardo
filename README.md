@@ -15,11 +15,6 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/luizeduardome">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizeduardome&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardome&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
   
 <h4>Estudando</h4>
 <div style="display: inline_block">
