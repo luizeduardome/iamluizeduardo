@@ -3,7 +3,7 @@
 
 - 🏭 Engenheiro de Produção
 - 💻 Aluno do curso de Desenvolvimento Web da Trybe
-- 🎓 Aluno do curso de Engenharia de Software da Faculdade Pitágoras
+- 🎓 Aluno do curso de Engenharia de Software da Faculdade Unisales
 - 🎓 Aluno do M.B.A em Machine Learning in Production - UFSCar
 
 ##
